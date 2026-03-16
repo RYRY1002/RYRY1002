@@ -1,5 +1,12 @@
-# I am a Programmer, Game Developer and Video Editor based in Sydney, Australia.
+## I am a graphics, gameplay, UI, tools, systems and web programmer working mainly in game development in Sydney, Australia
 
-You can see some of the things I've made below.
+### I have experience with
+- Unreal Engine, gameplay framework, engine modification, plugin & tool development
+- C++, C#
+- HLSL and OpenGL shader development
+- Modern web development, ie built with a framework such as React
+- Traditional web development, ie HTML templating
+- CLI tool development in Python and Batch
+- Unity game engine
 
-I'm always working on new grandiose projects, so check back every now and then to see if there's something new.
+### [Go to my website for a complete list of things I've worked on](https://riley.technology)
