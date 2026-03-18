@@ -1,7 +1,7 @@
 ## I am a graphics, gameplay, UI, tools, systems and web programmer working mainly in game development in Sydney, Australia
 
 ### I have experience with
-- Unreal Engine, gameplay framework, engine modification, plugin & tool development
+- Unreal Engine, materials, gameplay framework, engine modification, plugin & tool development
 - C++, C#
 - HLSL and OpenGL shader development
 - Modern web development, ie built with a framework such as React
